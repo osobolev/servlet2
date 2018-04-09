@@ -19,7 +19,7 @@ public class GreetServlet extends HttpServlet {
                                "    <title>Привет</title>\n" +
                                "</head>\n" +
                                "<body>\n" +
-                               "<a href=\"index.html\">Назад</a>\n" +
+                               "<a href=\"/\">Назад</a>\n" +
                                "<H2>Привет, " + yourname + "!!!</H2>\n" +
                                "</body>\n" +
                                "</html>\n");
